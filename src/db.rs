@@ -3,9 +3,9 @@ use sqlx::{postgres::PgPoolOptions, Pool};
 
 const SQL_FILE: &str = "sql/create_table.sql";
 
-const PG_HOST: &str = "localhost";
+const PG_HOST: &str = "101.35.215.125";
 const PG_USER: &str = "postgres";
-const PG_PWD: &str = "CJFCJF";
+const PG_PWD: &str = "cjf!QAZ2wsx";
 const PG_DB: &str = "postgres";
 const PG_MAX_NUM: u32 = 5;
 
